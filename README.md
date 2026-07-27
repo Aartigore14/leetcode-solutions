@@ -48,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/Aartigore14/leetcode-solutions/tree/master/0525-contiguous-array) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Aartigore14/leetcode-solutions/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
