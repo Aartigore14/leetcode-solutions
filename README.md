@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Aartigore14/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Aartigore14/leetcode-solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Aartigore14/leetcode-solutions/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/Aartigore14/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Aartigore14/leetcode-solutions/tree/master/0070-climbing-stairs) |
 ## Trie
 |  |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Aartigore14/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Aartigore14/leetcode-solutions/tree/master/0069-sqrtx) |
 ## String Matching
 |  |
 | ------- |
@@ -125,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Aartigore14/leetcode-solutions/tree/master/0070-climbing-stairs) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Aartigore14/leetcode-solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
