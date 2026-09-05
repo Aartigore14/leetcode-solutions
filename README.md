@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Aartigore14/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Aartigore14/leetcode-solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Aartigore14/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/Aartigore14/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0525-contiguous-array](https://github.com/Aartigore14/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0561-array-partition](https://github.com/Aartigore14/leetcode-solutions/tree/master/0561-array-partition) |
 | [0896-monotonic-array](https://github.com/Aartigore14/leetcode-solutions/tree/master/0896-monotonic-array) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aartigore14/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/Aartigore14/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Aartigore14/leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/Aartigore14/leetcode-solutions/tree/master/0189-rotate-array) |
 ## Greedy
 |  |
 | ------- |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Aartigore14/leetcode-solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Aartigore14/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Aartigore14/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/Aartigore14/leetcode-solutions/tree/master/0189-rotate-array) |
 ## Trie
 |  |
 | ------- |
