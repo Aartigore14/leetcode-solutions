@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Aartigore14/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Aartigore14/leetcode-solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Aartigore14/leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0647-palindromic-substrings](https://github.com/Aartigore14/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 ## Stack
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Aartigore14/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Aartigore14/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Aartigore14/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0647-palindromic-substrings](https://github.com/Aartigore14/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 ## Greedy
 |  |
 | ------- |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Aartigore14/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Aartigore14/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/Aartigore14/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0647-palindromic-substrings](https://github.com/Aartigore14/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 ## Backtracking
 |  |
 | ------- |
