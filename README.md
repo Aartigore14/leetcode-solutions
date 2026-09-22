@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Aartigore14/leetcode-solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Aartigore14/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Aartigore14/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
+| [0214-shortest-palindrome](https://github.com/Aartigore14/leetcode-solutions/tree/master/0214-shortest-palindrome) |
 | [0409-longest-palindrome](https://github.com/Aartigore14/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0647-palindromic-substrings](https://github.com/Aartigore14/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Aartigore14/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
@@ -139,14 +140,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aartigore14/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/Aartigore14/leetcode-solutions/tree/master/0214-shortest-palindrome) |
 ## Z Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aartigore14/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/Aartigore14/leetcode-solutions/tree/master/0214-shortest-palindrome) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aartigore14/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/Aartigore14/leetcode-solutions/tree/master/0214-shortest-palindrome) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
@@ -173,8 +177,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Aartigore14/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0214-shortest-palindrome](https://github.com/Aartigore14/leetcode-solutions/tree/master/0214-shortest-palindrome) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Aartigore14/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Aartigore14/leetcode-solutions/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Aartigore14/leetcode-solutions/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
