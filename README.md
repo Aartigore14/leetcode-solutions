@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Aartigore14/leetcode-solutions/tree/master/0561-array-partition) |
 | [0896-monotonic-array](https://github.com/Aartigore14/leetcode-solutions/tree/master/0896-monotonic-array) |
 | [0941-valid-mountain-array](https://github.com/Aartigore14/leetcode-solutions/tree/master/0941-valid-mountain-array) |
+| [1528-shuffle-string](https://github.com/Aartigore14/leetcode-solutions/tree/master/1528-shuffle-string) |
 | [3379-transformed-array](https://github.com/Aartigore14/leetcode-solutions/tree/master/3379-transformed-array) |
 ## Hash Table
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/Aartigore14/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Aartigore14/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/Aartigore14/leetcode-solutions/tree/master/0796-rotate-string) |
+| [1528-shuffle-string](https://github.com/Aartigore14/leetcode-solutions/tree/master/1528-shuffle-string) |
 ## Stack
 |  |
 | ------- |
