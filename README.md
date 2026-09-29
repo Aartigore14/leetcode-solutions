@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Aartigore14/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0647-palindromic-substrings](https://github.com/Aartigore14/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Aartigore14/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+| [0686-repeated-string-match](https://github.com/Aartigore14/leetcode-solutions/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/Aartigore14/leetcode-solutions/tree/master/0796-rotate-string) |
 | [0942-di-string-match](https://github.com/Aartigore14/leetcode-solutions/tree/master/0942-di-string-match) |
 | [1528-shuffle-string](https://github.com/Aartigore14/leetcode-solutions/tree/master/1528-shuffle-string) |
@@ -154,21 +155,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aartigore14/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/Aartigore14/leetcode-solutions/tree/master/0214-shortest-palindrome) |
+| [0686-repeated-string-match](https://github.com/Aartigore14/leetcode-solutions/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/Aartigore14/leetcode-solutions/tree/master/0796-rotate-string) |
 ## Z Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aartigore14/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/Aartigore14/leetcode-solutions/tree/master/0214-shortest-palindrome) |
+| [0686-repeated-string-match](https://github.com/Aartigore14/leetcode-solutions/tree/master/0686-repeated-string-match) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aartigore14/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/Aartigore14/leetcode-solutions/tree/master/0214-shortest-palindrome) |
+| [0686-repeated-string-match](https://github.com/Aartigore14/leetcode-solutions/tree/master/0686-repeated-string-match) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aartigore14/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0686-repeated-string-match](https://github.com/Aartigore14/leetcode-solutions/tree/master/0686-repeated-string-match) |
 ## Bit Manipulation
 |  |
 | ------- |
