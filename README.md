@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0686-repeated-string-match](https://github.com/Aartigore14/leetcode-solutions/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/Aartigore14/leetcode-solutions/tree/master/0796-rotate-string) |
 | [0942-di-string-match](https://github.com/Aartigore14/leetcode-solutions/tree/master/0942-di-string-match) |
+| [1405-longest-happy-string](https://github.com/Aartigore14/leetcode-solutions/tree/master/1405-longest-happy-string) |
 | [1528-shuffle-string](https://github.com/Aartigore14/leetcode-solutions/tree/master/1528-shuffle-string) |
 ## Stack
 |  |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Aartigore14/leetcode-solutions/tree/master/0561-array-partition) |
 | [0680-valid-palindrome-ii](https://github.com/Aartigore14/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0942-di-string-match](https://github.com/Aartigore14/leetcode-solutions/tree/master/0942-di-string-match) |
+| [1405-longest-happy-string](https://github.com/Aartigore14/leetcode-solutions/tree/master/1405-longest-happy-string) |
 ## Sorting
 |  |
 | ------- |
@@ -210,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Aartigore14/leetcode-solutions/tree/master/0214-shortest-palindrome) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1405-longest-happy-string](https://github.com/Aartigore14/leetcode-solutions/tree/master/1405-longest-happy-string) |
 <!---LeetCode Topics End-->
