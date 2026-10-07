@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Aartigore14/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/Aartigore14/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Aartigore14/leetcode-solutions/tree/master/0067-add-binary) |
+| [0087-scramble-string](https://github.com/Aartigore14/leetcode-solutions/tree/master/0087-scramble-string) |
 | [0125-valid-palindrome](https://github.com/Aartigore14/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Aartigore14/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0214-shortest-palindrome](https://github.com/Aartigore14/leetcode-solutions/tree/master/0214-shortest-palindrome) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Aartigore14/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Aartigore14/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/Aartigore14/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0087-scramble-string](https://github.com/Aartigore14/leetcode-solutions/tree/master/0087-scramble-string) |
 | [0131-palindrome-partitioning](https://github.com/Aartigore14/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0647-palindromic-substrings](https://github.com/Aartigore14/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 ## Backtracking
