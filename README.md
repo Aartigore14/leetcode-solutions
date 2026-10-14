@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/Aartigore14/leetcode-solutions/tree/master/0896-monotonic-array) |
 | [0941-valid-mountain-array](https://github.com/Aartigore14/leetcode-solutions/tree/master/0941-valid-mountain-array) |
 | [0942-di-string-match](https://github.com/Aartigore14/leetcode-solutions/tree/master/0942-di-string-match) |
+| [1470-shuffle-the-array](https://github.com/Aartigore14/leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1528-shuffle-string](https://github.com/Aartigore14/leetcode-solutions/tree/master/1528-shuffle-string) |
 | [3379-transformed-array](https://github.com/Aartigore14/leetcode-solutions/tree/master/3379-transformed-array) |
 ## Hash Table
