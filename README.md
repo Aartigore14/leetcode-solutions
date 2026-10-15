@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/Aartigore14/leetcode-solutions/tree/master/0942-di-string-match) |
 | [1470-shuffle-the-array](https://github.com/Aartigore14/leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1528-shuffle-string](https://github.com/Aartigore14/leetcode-solutions/tree/master/1528-shuffle-string) |
+| [1720-decode-xored-array](https://github.com/Aartigore14/leetcode-solutions/tree/master/1720-decode-xored-array) |
 | [3379-transformed-array](https://github.com/Aartigore14/leetcode-solutions/tree/master/3379-transformed-array) |
 ## Hash Table
 |  |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Aartigore14/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Aartigore14/leetcode-solutions/tree/master/0067-add-binary) |
+| [1720-decode-xored-array](https://github.com/Aartigore14/leetcode-solutions/tree/master/1720-decode-xored-array) |
 ## Simulation
 |  |
 | ------- |
