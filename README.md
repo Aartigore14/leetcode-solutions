@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/Aartigore14/leetcode-solutions/tree/master/1528-shuffle-string) |
 | [1720-decode-xored-array](https://github.com/Aartigore14/leetcode-solutions/tree/master/1720-decode-xored-array) |
 | [1929-concatenation-of-array](https://github.com/Aartigore14/leetcode-solutions/tree/master/1929-concatenation-of-array) |
+| [3151-special-array-i](https://github.com/Aartigore14/leetcode-solutions/tree/master/3151-special-array-i) |
 | [3379-transformed-array](https://github.com/Aartigore14/leetcode-solutions/tree/master/3379-transformed-array) |
 ## Hash Table
 |  |
