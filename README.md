@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Aartigore14/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0525-contiguous-array](https://github.com/Aartigore14/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0561-array-partition](https://github.com/Aartigore14/leetcode-solutions/tree/master/0561-array-partition) |
+| [0697-degree-of-an-array](https://github.com/Aartigore14/leetcode-solutions/tree/master/0697-degree-of-an-array) |
 | [0896-monotonic-array](https://github.com/Aartigore14/leetcode-solutions/tree/master/0896-monotonic-array) |
 | [0941-valid-mountain-array](https://github.com/Aartigore14/leetcode-solutions/tree/master/0941-valid-mountain-array) |
 | [0942-di-string-match](https://github.com/Aartigore14/leetcode-solutions/tree/master/0942-di-string-match) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aartigore14/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0409-longest-palindrome](https://github.com/Aartigore14/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0525-contiguous-array](https://github.com/Aartigore14/leetcode-solutions/tree/master/0525-contiguous-array) |
+| [0697-degree-of-an-array](https://github.com/Aartigore14/leetcode-solutions/tree/master/0697-degree-of-an-array) |
 ## String
 |  |
 | ------- |
