@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Aartigore14/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aartigore14/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Aartigore14/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/Aartigore14/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Aartigore14/leetcode-solutions/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/Aartigore14/leetcode-solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Aartigore14/leetcode-solutions/tree/master/0088-merge-sorted-array) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aartigore14/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Aartigore14/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/Aartigore14/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Aartigore14/leetcode-solutions/tree/master/0046-permutations) |
 | [0131-palindrome-partitioning](https://github.com/Aartigore14/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 ## Bracket Sequences
