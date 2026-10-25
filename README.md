@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Aartigore14/leetcode-solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Aartigore14/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Aartigore14/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0303-range-sum-query-immutable](https://github.com/Aartigore14/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/Aartigore14/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0561-array-partition](https://github.com/Aartigore14/leetcode-solutions/tree/master/0561-array-partition) |
 | [0697-degree-of-an-array](https://github.com/Aartigore14/leetcode-solutions/tree/master/0697-degree-of-an-array) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Aartigore14/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/Aartigore14/leetcode-solutions/tree/master/0525-contiguous-array) |
 ## Math
 |  |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Aartigore14/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Aartigore14/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0303-range-sum-query-immutable](https://github.com/Aartigore14/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 ## Queue
 |  |
 | ------- |
