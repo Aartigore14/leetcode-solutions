@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/Aartigore14/leetcode-solutions/tree/master/1528-shuffle-string) |
 | [1720-decode-xored-array](https://github.com/Aartigore14/leetcode-solutions/tree/master/1720-decode-xored-array) |
 | [1929-concatenation-of-array](https://github.com/Aartigore14/leetcode-solutions/tree/master/1929-concatenation-of-array) |
+| [2706-buy-two-chocolates](https://github.com/Aartigore14/leetcode-solutions/tree/master/2706-buy-two-chocolates) |
 | [3151-special-array-i](https://github.com/Aartigore14/leetcode-solutions/tree/master/3151-special-array-i) |
 | [3379-transformed-array](https://github.com/Aartigore14/leetcode-solutions/tree/master/3379-transformed-array) |
 ## Hash Table
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Aartigore14/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0942-di-string-match](https://github.com/Aartigore14/leetcode-solutions/tree/master/0942-di-string-match) |
 | [1405-longest-happy-string](https://github.com/Aartigore14/leetcode-solutions/tree/master/1405-longest-happy-string) |
+| [2706-buy-two-chocolates](https://github.com/Aartigore14/leetcode-solutions/tree/master/2706-buy-two-chocolates) |
 ## Sorting
 |  |
 | ------- |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Aartigore14/leetcode-solutions/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/Aartigore14/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0561-array-partition](https://github.com/Aartigore14/leetcode-solutions/tree/master/0561-array-partition) |
+| [2706-buy-two-chocolates](https://github.com/Aartigore14/leetcode-solutions/tree/master/2706-buy-two-chocolates) |
 ## Counting Sort
 |  |
 | ------- |
