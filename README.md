@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Aartigore14/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Aartigore14/leetcode-solutions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Aartigore14/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0056-merge-intervals](https://github.com/Aartigore14/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Aartigore14/leetcode-solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Aartigore14/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Aartigore14/leetcode-solutions/tree/master/0189-rotate-array) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Aartigore14/leetcode-solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Aartigore14/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Aartigore14/leetcode-solutions/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/Aartigore14/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Aartigore14/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0561-array-partition](https://github.com/Aartigore14/leetcode-solutions/tree/master/0561-array-partition) |
 | [2706-buy-two-chocolates](https://github.com/Aartigore14/leetcode-solutions/tree/master/2706-buy-two-chocolates) |
@@ -318,4 +320,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1791-find-center-of-star-graph](https://github.com/Aartigore14/leetcode-solutions/tree/master/1791-find-center-of-star-graph) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Aartigore14/leetcode-solutions/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
