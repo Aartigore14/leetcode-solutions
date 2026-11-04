@@ -8,23 +8,24 @@ class Solution {
 
         while (l1 != null || l2 != null || carry != 0) {
 
-            int x = (l1 != null) ? l1.val : 0;
-            int y = (l2 != null) ? l2.val : 0;
-
-            int sum = x + y + carry;
-
-            carry = sum / 10;
-
-            current.next = new ListNode(sum % 10);
-            current = current.next;
+            int sum = carry;
 
             if (l1 != null) {
+                sum += l1.val;
                 l1 = l1.next;
             }
 
             if (l2 != null) {
+                sum += l2.val;
                 l2 = l2.next;
             }
+
+            carry = sum / 10;
+
+            int digit = sum % 10;
+
+            current.next = new ListNode(digit);
+            current = current.next;
         }
 
         return dummy.next;
