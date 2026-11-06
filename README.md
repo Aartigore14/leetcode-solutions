@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3151-special-array-i](https://github.com/Aartigore14/leetcode-solutions/tree/master/3151-special-array-i) |
 | [3379-transformed-array](https://github.com/Aartigore14/leetcode-solutions/tree/master/3379-transformed-array) |
 | [3838-weighted-word-mapping](https://github.com/Aartigore14/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
+| [4061-minimum-queen-moves-to-reach-target](https://github.com/Aartigore14/leetcode-solutions/tree/master/4061-minimum-queen-moves-to-reach-target) |
 ## Hash Table
 |  |
 | ------- |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Aartigore14/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Aartigore14/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Aartigore14/leetcode-solutions/tree/master/0189-rotate-array) |
+| [4061-minimum-queen-moves-to-reach-target](https://github.com/Aartigore14/leetcode-solutions/tree/master/4061-minimum-queen-moves-to-reach-target) |
 ## Trie
 |  |
 | ------- |
