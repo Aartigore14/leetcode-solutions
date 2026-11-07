@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Aartigore14/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0561-array-partition](https://github.com/Aartigore14/leetcode-solutions/tree/master/0561-array-partition) |
 | [0697-degree-of-an-array](https://github.com/Aartigore14/leetcode-solutions/tree/master/0697-degree-of-an-array) |
+| [0705-design-hashset](https://github.com/Aartigore14/leetcode-solutions/tree/master/0705-design-hashset) |
 | [0896-monotonic-array](https://github.com/Aartigore14/leetcode-solutions/tree/master/0896-monotonic-array) |
 | [0941-valid-mountain-array](https://github.com/Aartigore14/leetcode-solutions/tree/master/0941-valid-mountain-array) |
 | [0942-di-string-match](https://github.com/Aartigore14/leetcode-solutions/tree/master/0942-di-string-match) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Aartigore14/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0525-contiguous-array](https://github.com/Aartigore14/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0697-degree-of-an-array](https://github.com/Aartigore14/leetcode-solutions/tree/master/0697-degree-of-an-array) |
+| [0705-design-hashset](https://github.com/Aartigore14/leetcode-solutions/tree/master/0705-design-hashset) |
 ## String
 |  |
 | ------- |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Aartigore14/leetcode-solutions/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Aartigore14/leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Aartigore14/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0705-design-hashset](https://github.com/Aartigore14/leetcode-solutions/tree/master/0705-design-hashset) |
 ## Recursion
 |  |
 | ------- |
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Aartigore14/leetcode-solutions/tree/master/0214-shortest-palindrome) |
+| [0705-design-hashset](https://github.com/Aartigore14/leetcode-solutions/tree/master/0705-design-hashset) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -282,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Aartigore14/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Aartigore14/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/Aartigore14/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
+| [0705-design-hashset](https://github.com/Aartigore14/leetcode-solutions/tree/master/0705-design-hashset) |
 ## Queue
 |  |
 | ------- |
