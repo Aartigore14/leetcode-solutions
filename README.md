@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-decode-xored-array](https://github.com/Aartigore14/leetcode-solutions/tree/master/1720-decode-xored-array) |
 | [1929-concatenation-of-array](https://github.com/Aartigore14/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2706-buy-two-chocolates](https://github.com/Aartigore14/leetcode-solutions/tree/master/2706-buy-two-chocolates) |
+| [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Aartigore14/leetcode-solutions/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3151-special-array-i](https://github.com/Aartigore14/leetcode-solutions/tree/master/3151-special-array-i) |
 | [3379-transformed-array](https://github.com/Aartigore14/leetcode-solutions/tree/master/3379-transformed-array) |
 | [3838-weighted-word-mapping](https://github.com/Aartigore14/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Aartigore14/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Aartigore14/leetcode-solutions/tree/master/0067-add-binary) |
 | [1720-decode-xored-array](https://github.com/Aartigore14/leetcode-solutions/tree/master/1720-decode-xored-array) |
+| [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Aartigore14/leetcode-solutions/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 ## Simulation
 |  |
 | ------- |
