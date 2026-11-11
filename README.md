@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/Aartigore14/leetcode-solutions/tree/master/0697-degree-of-an-array) |
 | [0705-design-hashset](https://github.com/Aartigore14/leetcode-solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Aartigore14/leetcode-solutions/tree/master/0706-design-hashmap) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Aartigore14/leetcode-solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 ## String
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/Aartigore14/leetcode-solutions/tree/master/0942-di-string-match) |
 | [1405-longest-happy-string](https://github.com/Aartigore14/leetcode-solutions/tree/master/1405-longest-happy-string) |
 | [1528-shuffle-string](https://github.com/Aartigore14/leetcode-solutions/tree/master/1528-shuffle-string) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Aartigore14/leetcode-solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3838-weighted-word-mapping](https://github.com/Aartigore14/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 ## Stack
 |  |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Aartigore14/leetcode-solutions/tree/master/0561-array-partition) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Aartigore14/leetcode-solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 ## Prefix Sum
 |  |
 | ------- |
