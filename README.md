@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Aartigore14/leetcode-solutions/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3151-special-array-i](https://github.com/Aartigore14/leetcode-solutions/tree/master/3151-special-array-i) |
 | [3379-transformed-array](https://github.com/Aartigore14/leetcode-solutions/tree/master/3379-transformed-array) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/Aartigore14/leetcode-solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3838-weighted-word-mapping](https://github.com/Aartigore14/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 | [4061-minimum-queen-moves-to-reach-target](https://github.com/Aartigore14/leetcode-solutions/tree/master/4061-minimum-queen-moves-to-reach-target) |
 ## Hash Table
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/Aartigore14/leetcode-solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Aartigore14/leetcode-solutions/tree/master/0706-design-hashmap) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Aartigore14/leetcode-solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/Aartigore14/leetcode-solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## String
 |  |
 | ------- |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/Aartigore14/leetcode-solutions/tree/master/0561-array-partition) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Aartigore14/leetcode-solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/Aartigore14/leetcode-solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Aartigore14/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Aartigore14/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Aartigore14/leetcode-solutions/tree/master/0189-rotate-array) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/Aartigore14/leetcode-solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [4061-minimum-queen-moves-to-reach-target](https://github.com/Aartigore14/leetcode-solutions/tree/master/4061-minimum-queen-moves-to-reach-target) |
 ## Trie
 |  |
@@ -344,4 +348,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Aartigore14/leetcode-solutions/tree/master/0056-merge-intervals) |
+## Number Theory
+|  |
+| ------- |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/Aartigore14/leetcode-solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 <!---LeetCode Topics End-->
