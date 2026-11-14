@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Aartigore14/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Aartigore14/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Aartigore14/leetcode-solutions/tree/master/0189-rotate-array) |
+| [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Aartigore14/leetcode-solutions/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Aartigore14/leetcode-solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [4061-minimum-queen-moves-to-reach-target](https://github.com/Aartigore14/leetcode-solutions/tree/master/4061-minimum-queen-moves-to-reach-target) |
 ## Trie
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Aartigore14/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Aartigore14/leetcode-solutions/tree/master/0067-add-binary) |
 | [1929-concatenation-of-array](https://github.com/Aartigore14/leetcode-solutions/tree/master/1929-concatenation-of-array) |
+| [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Aartigore14/leetcode-solutions/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3379-transformed-array](https://github.com/Aartigore14/leetcode-solutions/tree/master/3379-transformed-array) |
 | [3838-weighted-word-mapping](https://github.com/Aartigore14/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 ## Memoization
