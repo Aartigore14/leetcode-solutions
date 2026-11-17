@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/Aartigore14/leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1528-shuffle-string](https://github.com/Aartigore14/leetcode-solutions/tree/master/1528-shuffle-string) |
 | [1720-decode-xored-array](https://github.com/Aartigore14/leetcode-solutions/tree/master/1720-decode-xored-array) |
+| [1779-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/Aartigore14/leetcode-solutions/tree/master/1779-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [1929-concatenation-of-array](https://github.com/Aartigore14/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2706-buy-two-chocolates](https://github.com/Aartigore14/leetcode-solutions/tree/master/2706-buy-two-chocolates) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Aartigore14/leetcode-solutions/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
