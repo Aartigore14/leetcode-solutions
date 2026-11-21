@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Aartigore14/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/Aartigore14/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Aartigore14/leetcode-solutions/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/Aartigore14/leetcode-solutions/tree/master/0071-simplify-path) |
 | [0087-scramble-string](https://github.com/Aartigore14/leetcode-solutions/tree/master/0087-scramble-string) |
 | [0125-valid-palindrome](https://github.com/Aartigore14/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Aartigore14/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aartigore14/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Aartigore14/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/Aartigore14/leetcode-solutions/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Aartigore14/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/Aartigore14/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Aartigore14/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
